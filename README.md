@@ -11,13 +11,13 @@
 <h4>Left and Right Images</h4>
 <div align ='center'>
 <p>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/left.jpg" width = '450' height = '400'>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/right.jpg" width = '450' height = '400'> </p>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/left.jpg" width = '350' height = '300'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/right.jpg" width = '350' height = '300'> </p>
 </div>
 
 <h4>Panorama:</h4>
 <div align ='center'>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task1_result.jpg" width = '900' height = '500'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task1_result.jpg" width = '700' height = '450'>
 </div>
 
 <h3>Task2: Denoising and Edge Detection</h3>
@@ -64,8 +64,8 @@
 <h4>Noisy image, Denoised image and Boundary extracted image</h3>
 <div align = 'center'>
 <p>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/task3.png" width = '300' height = '300'>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task3_denoise.jpg" width = '300' height = '300'>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task3_boundary.jpg" width = '300' height = '300'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/task3.png" width = '250' height = '250'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task3_denoise.jpg" width = '250' height = '250'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task3_boundary.jpg" width = '250' height = '250'>
 </p>
 </div>
