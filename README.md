@@ -17,7 +17,7 @@
 
 <h4>Panorama:</h4>
 <div align ='center'>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task1_result.jpg" width = '700' height = '450'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task1_result.jpg" width = '700' height = '400'>
 </div>
 
 <h3>Task2: Denoising and Edge Detection</h3>
@@ -29,8 +29,8 @@
 <h4>Noisy image and denoised image:</h4>
 <div align = 'center'>
 <p>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/task2.png" width = '350' height = '300'>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task2_denoise.jpg" width = '350' height = '300'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/task2.png" width = '350' height = '280'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task2_denoise.jpg" width = '350' height = '280'>
 </p>
 </div>
 
@@ -41,12 +41,12 @@
 
 <h4>Edges along x and y</h4>
 
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task2_edge_x.jpg" width = '350' height = '300'>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task2_edge_y.jpg" width = '350' height = '300'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task2_edge_x.jpg" width = '350' height = '280'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task2_edge_y.jpg" width = '350' height = '280'>
 
 <h4>Edges along 45° and 135°</h4>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task2_edge_diag1.jpg" width = '350' height = '300'>
-<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task2_edge_diag2.jpg" width = '350' height = '300'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task2_edge_diag1.jpg" width = '350' height = '280'>
+<img src="https://github.com/nkrgit/Computer-Vision-and-Image-Processing/blob/main/results/task2_edge_diag2.jpg" width = '350' height = '280'>
 </p>
 </div>
 
